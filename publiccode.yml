@@ -1,0 +1,61 @@
+publiccodeYmlVersion: "0.4"
+name: Whistleblowing
+url: https://github.com/Comune-Milano/Whistleblowing
+platforms:
+  - web
+categories:
+  - whistleblowing
+  - compliance-management
+  - regulations-and-directives
+  - it-security
+  - document-management
+developmentStatus: stable
+softwareType: standalone/web
+description:
+  it:
+    shortDescription: Whistleblowing è un applicativo per la gestione sicura e
+      anonima delle segnalazioni di illeciti.
+    longDescription: Whistleblowing è un'applicazione progettata per consentire la
+      segnalazione sicura e anonima di illeciti, garantendo la protezione dei
+      segnalanti e la riservatezza delle informazioni. La piattaforma offre una
+      gestione avanzata delle segnalazioni, con workflow personalizzabili,
+      accesso multi-ruolo e notifiche automatiche. Grazie alla crittografia
+      end-to-end e alla conformità con le normative GDPR e le direttive europee
+      in materia di whistleblowing, l'applicativo assicura elevati standard di
+      sicurezza e trasparenza. Ideale per enti pubblici, aziende e
+      organizzazioni che vogliono promuovere un ambiente etico e conforme alla
+      normativa.
+    features:
+      - Segnalazioni anonime e protette – Permette agli utenti di inviare
+        segnalazioni in modo anonimo, garantendo la riservatezza delle
+        informazioni.
+      - Gestione delle segnalazioni – Dashboard per la gestione avanzata delle
+        segnalazioni con assegnazione, tracciamento dello stato e notifiche.
+      - Cifratura e sicurezza dei dati – Protezione avanzata delle segnalazioni
+        tramite crittografia end-to-end e conformità alle normative GDPR.
+      - Workflow personalizzabile – Configurazione dei flussi di lavoro per
+        adattarsi alle esigenze dell’ente o dell’azienda.
+      - Accesso multi-ruolo – Differenti livelli di accesso per segnalanti,
+        revisori e amministratori con gestione permessi.
+legal:
+  license: AGPL-3.0-only
+maintenance:
+  type: community
+localisation:
+  localisationReady: true
+  availableLanguages:
+    - it
+    - en
+    - ar
+    - hy
+    - de
+    - es
+    - pt
+    - fr
+    - ru
+    - nl
+    - el
+it:
+  countryExtensionVersion: '0.2'
+  riuso:
+    codiceIPA: c_f205
