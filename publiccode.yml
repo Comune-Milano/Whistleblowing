@@ -1,15 +1,11 @@
-publiccodeYmlVersion: "0.4"
+publiccodeYmlVersion: "0.3"
 name: Whistleblowing
 url: https://github.com/Comune-Milano/Whistleblowing
 platforms:
   - web
 categories:
   - whistleblowing
-  - compliance-management
-  - regulations-and-directives
-  - it-security
-  - document-management
-developmentStatus: stable
+developmentStatus: development
 softwareType: standalone/web
 description:
   it:
@@ -26,11 +22,12 @@ description:
       organizzazioni che vogliono promuovere un ambiente etico e conforme alla
       normativa.
     features:
-      - Segnalazioni anonime e protette – Permette agli utenti di inviare
-        segnalazioni in modo anonimo, garantendo la riservatezza delle
-        informazioni.
-      - Gestione delle segnalazioni – Dashboard per la gestione avanzata delle
-        segnalazioni con assegnazione, tracciamento dello stato e notifiche.
+      - Segnalazioni anonime e protette – Permette agli utenti di
+        inviare         segnalazioni in modo anonimo, garantendo la riservatezza
+        delle informazioni.
+      - Gestione delle segnalazioni – Dashboard per la gestione avanzata
+        delle         segnalazioni con assegnazione, tracciamento dello stato e
+        notifiche.
       - Cifratura e sicurezza dei dati – Protezione avanzata delle segnalazioni
         tramite crittografia end-to-end e conformità alle normative GDPR.
       - Workflow personalizzabile – Configurazione dei flussi di lavoro per
@@ -40,7 +37,7 @@ description:
 legal:
   license: AGPL-3.0-only
 maintenance:
-  type: community
+  type: none
 localisation:
   localisationReady: true
   availableLanguages:
